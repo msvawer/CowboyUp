@@ -2596,8 +2596,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   pooledObjects: []
-  objectToPool: {fileID: 0}
-  amountToPool: 0
+  objectToPool: {fileID: 5079275177920373952, guid: 684d0f29d486e0f4cb545f7d4e30c1a6, type: 3}
+  amountToPool: 50
 --- !u!4 &1470304236
 Transform:
   m_ObjectHideFlags: 0
