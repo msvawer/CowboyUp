@@ -5,7 +5,7 @@ using UnityEngine.XR.Interaction.Toolkit;
 
 public class Gun : MonoBehaviour
 {
-    private XRGrabInteractable interactable = null;
+   
     public GameObject laserprefab;
 
     public float damage = 10f;
